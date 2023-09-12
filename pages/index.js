@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Proof of COncept for Bug Bounty Report" />
         <p className="Proof of COncept for Bug Bounty Report">
-          Proof of COncept for Bug Bounty Report</code>
+          Proof of COncept for Bug Bounty Report <code>pages/index.js</code>
         </p>
       </main>
 
