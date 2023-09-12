@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Proof of COncept for Bug Bounty Report" />
         <p className="Proof of COncept for Bug Bounty Report">
           Proof of COncept for Bug Bounty Report</code>
         </p>
