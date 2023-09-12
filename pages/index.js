@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="Proof of COncept for Bug Bounty Report">
-          Get started by editing <code>pages/index.js</code>
+          Proof of COncept for Bug Bounty Report</code>
         </p>
       </main>
 
